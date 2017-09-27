@@ -7,5 +7,6 @@ Hello Everyone!!
  it creates a pom.xml file
  select it and  run as maven build
  once build completes refresh the project
+ it creates a jar file in target location
 
  
